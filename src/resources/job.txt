@@ -1,0 +1,5 @@
+physician,a qualified practitioner of medicine
+programer,make program
+teacher,a person who teaches, especially in a school
+police,have the duty of maintaining law and order in or for (an area or event)
+musician,performs or writes music

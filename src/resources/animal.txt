@@ -1,0 +1,6 @@
+ant 48,small animal
+bird,fly
+cat,meow
+dog,bark
+fish,water
+tiger,fastest animal
